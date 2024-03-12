@@ -20,7 +20,7 @@ html,body{
 }
 
 .title{
-    box-shadow: 4px 4px 4px #1abc9c;
+    /* box-shadow: 4px 4px 4px #1abc9c; */
     font-size: 30px;
     font-weight:600;
     /* line-height: 1px; */
@@ -38,9 +38,13 @@ p{
 form{
     height: 300px;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    
 }
 .row{
-    
+    padding: 8px 0px 10px 10px;
 }
 
 
