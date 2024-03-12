@@ -50,10 +50,10 @@ form{
     
 }
 #content{
-    height: 40px;
-    /* width: 90%; */
-    /* border: 1px solid black; */
-    box-shadow: 4px 4px 6px white;
+    height: 50px;
+    width: 80%;
+    box-shadow: 4px 4px 5px white;
+    border: 1px solid rgb(248, 222, 222);
     /* border: 1px solid white; */
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
@@ -61,10 +61,11 @@ form{
 }
 .row i{
     width: 50px;
-    height: 40px;
+    height: 50px;
     background-color: #1abc9c;
-    text-align: center;
-    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 
