@@ -45,6 +45,13 @@ form{
 }
 .row{
     padding: 8px 0px 10px 10px;
+    
+}
+#content{
+    height: 40px;
+    width: 90%;
+    /* border: 1px solid black; */
+    border-radius: 3px;
 }
 
 
