@@ -90,4 +90,8 @@ button{
     width: 87%;
     position: relative;
     left: 25px;
+    background-color: #16a085;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
 }
