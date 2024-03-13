@@ -85,3 +85,9 @@ form{
     font-weight: 500;
     font-size: 20px;
 }
+button{
+    height: 50px;
+    width: 87%;
+    position: relative;
+    left: 25px;
+}
