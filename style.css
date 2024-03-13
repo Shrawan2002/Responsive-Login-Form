@@ -68,5 +68,8 @@ form{
     align-items: center;
     
 }
+#content:hover{
+    border: 2px solid #16a085;
+}
 
 
