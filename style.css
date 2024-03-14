@@ -55,11 +55,11 @@ form{
     width: 80%;
     box-shadow: 4px 4px 5px white;
     border: none;
-    /* border: 1px solid rgb(248, 222, 222); */
+    border: 1px solid rgba(248, 222, 222, 0.882);
     /* border: 1px solid white; */
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
-    font-size: 15px;
+
     
 }
 .row i{
@@ -98,4 +98,5 @@ button{
     font-weight: 600;
     border: none;
     /* box-shadow: 3px 3px 5px #16a085; */
+    
 }
