@@ -9,13 +9,18 @@ html,body{
     /* background-color: aquamarine; */
     align-items: center;
     justify-content: center;
-    margin-top: 130px;
+    margin-top: 90px;
     background-color: #1abc9c;
 }
 
 .wrapper{
     width: 380px;
     background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 4px 4px 5px #16a085;
+    /* position: relative; */
+    /* position: 50px; */
+
 
 }
 
@@ -110,4 +115,5 @@ button{
 }
 .last a{
     text-decoration: none;
+
 }
